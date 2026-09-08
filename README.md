@@ -1,6 +1,6 @@
 ## Hi, I'm Peter 👋
 
-This is my repo for personal projects.
+This is my GitHub for personal projects.
 
 ### Tinkering with
 - Currently building "exohunter": a token-free Python tool that searches NASA Kepler, K2 and TESS
