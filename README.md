@@ -8,7 +8,8 @@ This is my GitHub for personal projects.
   benchmarked per mission against NASA's catalogues. A re-detection and triage tool for bright
   stars, not a discovery tool.
 
-- Coastal-property risk tooling
+- [SeaState US](https://github.com/PeterCotroneo/SeaState-US): a QGIS plugin that I've built that
+  loads NOAA tide, water-level, and buoy data as map layers and charts them over time.
 
 ### Interests
 Astronomy, cartography, archaeology, designing and building circuits, small language models on constrained hardware, and boat building.
