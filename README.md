@@ -11,11 +11,11 @@ This is my GitHub for personal projects.
 
 - [Contrail](https://github.com/PeterCotroneo/Contrail): a QGIS plugin that streams live
   ADS-B aircraft traffic onto your map as a moving layer, tracking planes in your current
-  view or a drawn area, colored by category, from several free data sources.
+  view or a drawn area, coloured by category, from several free data sources.
 
 - [Wake](https://github.com/PeterCotroneo/Wake): a QGIS plugin that streams live AIS
   marine vessel traffic onto your map as a moving layer, tracking ships in your current
-  view or a drawn area, colored by type, from several free data sources.
+  view or a drawn area, coloured by type, from several free data sources.
   ([QGIS plugin page](https://plugins.qgis.org/plugins/wake/))
 
 - [SeaState US](https://github.com/PeterCotroneo/SeaState-US): a QGIS plugin that
