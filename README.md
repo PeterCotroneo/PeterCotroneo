@@ -9,6 +9,10 @@ This is my GitHub for personal projects.
   benchmarked per mission against NASA's catalogues. A re-detection and triage tool for bright
   stars, not a discovery tool.
 
+- [Contrail](https://github.com/PeterCotroneo/Contrail): a QGIS plugin that streams live
+  ADS-B aircraft traffic onto your map as a moving layer, tracking planes in your current
+  view or a drawn area, colored by category, from several free data sources.
+
 - [Wake](https://github.com/PeterCotroneo/Wake): a QGIS plugin that streams live AIS
   marine vessel traffic onto your map as a moving layer, tracking ships in your current
   view or a drawn area, colored by type, from several free data sources.
