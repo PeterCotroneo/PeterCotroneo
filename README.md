@@ -29,12 +29,10 @@ This is my GitHub for personal projects.
   loads NOAA tide, water-level, and buoy data as map layers and charts them over time.
   ([QGIS plugin page](https://plugins.qgis.org/plugins/seastate/))
   
-- [Bolt](https://github.com/PeterCotroneo/Bolt): a QGIS plugin that streams live
-  lightning detections onto your map as they strike and fade, built on the same
-  live-tracking engine as Wake, Contrail and Zenith — the storm sibling to their
-  sea, sky and space. Kept as a personal, source-only build rather than published,
-  because the Blitzortung network's data is licensed for project participants and
-  private use, not public redistribution.
+- [Bolt](https://github.com/PeterCotroneo/Bolt): A personal QGIS project that
+  displays live lightning detections as they arrive and fade, using the same
+  tracking engine as Wake, Contrail and Zenith. Source-only; not distributed
+  through the QGIS plugin repository.
 
 - [Coatue Studio](https://www.saatchiart.com/coatuestudio): My cartographic art practice, exploring the geometry of cities through maps of streets, buildings and property boundaries.
 
