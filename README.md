@@ -9,9 +9,16 @@ This is my GitHub for personal projects.
   benchmarked per mission against NASA's catalogues. A re-detection and triage tool for bright
   stars, not a discovery tool.
 
+- [Zenith](https://github.com/PeterCotroneo/Zenith): a QGIS plugin that computes live
+  satellite positions from orbital data and shows them moving on your map, tracking
+  satellites in your current view or a drawn area, coloured by constellation, keyless
+  from CelesTrak.
+  ([QGIS plugin page](https://plugins.qgis.org/plugins/zenith/))
+
 - [Contrail](https://github.com/PeterCotroneo/Contrail): a QGIS plugin that streams live
   ADS-B aircraft traffic onto your map as a moving layer, tracking planes in your current
   view or a drawn area, coloured by category, from several free data sources.
+  ([QGIS plugin page](https://plugins.qgis.org/plugins/contrail/))
 
 - [Wake](https://github.com/PeterCotroneo/Wake): a QGIS plugin that streams live AIS
   marine vessel traffic onto your map as a moving layer, tracking ships in your current
