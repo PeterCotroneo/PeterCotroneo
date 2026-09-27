@@ -28,6 +28,12 @@ This is my GitHub for personal projects.
 - [SeaState US](https://github.com/PeterCotroneo/SeaState-US): a QGIS plugin that
   loads NOAA tide, water-level, and buoy data as map layers and charts them over time.
   ([QGIS plugin page](https://plugins.qgis.org/plugins/seastate/))
+
+- [Outfall UK](https://github.com/PeterCotroneo/Outfall-UK): a QGIS plugin that loads
+  every UK bathing water, coloured by its official rating or today's pollution-risk
+  forecast, and the live storm-overflow network showing which sewage overflows are
+  discharging now, keyless from the UK regulators and water companies.
+  ([QGIS plugin page](https://plugins.qgis.org/plugins/outfall/))
   
 - [Bolt](https://github.com/PeterCotroneo/Bolt): A personal QGIS project that
   displays live lightning detections as they arrive and fade, using the same
@@ -37,4 +43,4 @@ This is my GitHub for personal projects.
 - [Coatue Studio](https://www.saatchiart.com/coatuestudio): My cartographic art practice, exploring the geometry of cities through maps of streets, buildings and property boundaries.
 
 ### Interests
-Astronomy, cartography, archaeology, designing and building circuits, small language models on constrained hardware, and boat building.
+Astronomy, cartography, archaeology, designing and building circuits, small language models on constrained hardware, boat building, and sailing.
