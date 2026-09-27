@@ -29,10 +29,9 @@ This is my GitHub for personal projects.
   loads NOAA tide, water-level, and buoy data as map layers and charts them over time.
   ([QGIS plugin page](https://plugins.qgis.org/plugins/seastate/))
 
-- [Outfall UK](https://github.com/PeterCotroneo/Outfall-UK): a QGIS plugin that loads
-  every UK bathing water, coloured by its official rating or today's pollution-risk
-  forecast, and the live storm-overflow network showing which sewage overflows are
-  discharging now, keyless from the UK regulators and water companies.
+- [Outfall UK](https://github.com/PeterCotroneo/Outfall-UK): a QGIS plugin that maps
+  UK bathing-water quality and which sewage overflows are discharging now, keyless
+  from the UK regulators and water companies.
   ([QGIS plugin page](https://plugins.qgis.org/plugins/outfall/))
   
 - [Bolt](https://github.com/PeterCotroneo/Bolt): A personal QGIS project that
