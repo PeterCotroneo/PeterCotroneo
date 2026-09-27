@@ -9,35 +9,35 @@ This is my GitHub for personal projects.
   benchmarked per mission against NASA's catalogues. A re-detection and triage tool for bright
   stars, not a discovery tool.
 
-- [Zenith](https://github.com/PeterCotroneo/Zenith): a QGIS plugin that computes live
-  satellite positions from orbital data and shows them moving on your map, tracking
-  satellites in your current view or a drawn area, coloured by constellation, keyless
-  from CelesTrak.
-  ([QGIS plugin page](https://plugins.qgis.org/plugins/zenith/))
+- **Geospatial plugins for QGIS:**
 
-- [Contrail](https://github.com/PeterCotroneo/Contrail): a QGIS plugin that streams live
-  ADS-B aircraft traffic onto your map as a moving layer, tracking planes in your current
-  view or a drawn area, coloured by category, from several free data sources.
-  ([QGIS plugin page](https://plugins.qgis.org/plugins/contrail/))
+  - [Zenith](https://github.com/PeterCotroneo/Zenith): computes live satellite positions
+    from orbital data and shows them moving on your map, tracking satellites in your
+    current view or a drawn area, coloured by constellation, keyless from CelesTrak.
+    ([QGIS plugin page](https://plugins.qgis.org/plugins/zenith/))
 
-- [Wake](https://github.com/PeterCotroneo/Wake): a QGIS plugin that streams live AIS
-  marine vessel traffic onto your map as a moving layer, tracking ships in your current
-  view or a drawn area, coloured by type, from several free data sources.
-  ([QGIS plugin page](https://plugins.qgis.org/plugins/wake/))
+  - [Contrail](https://github.com/PeterCotroneo/Contrail): streams live ADS-B aircraft
+    traffic onto your map as a moving layer, tracking planes in your current view or a
+    drawn area, coloured by category, from several free data sources.
+    ([QGIS plugin page](https://plugins.qgis.org/plugins/contrail/))
 
-- [SeaState US](https://github.com/PeterCotroneo/SeaState-US): a QGIS plugin that
-  loads NOAA tide, water-level, and buoy data as map layers and charts them over time.
-  ([QGIS plugin page](https://plugins.qgis.org/plugins/seastate/))
+  - [Wake](https://github.com/PeterCotroneo/Wake): streams live AIS marine vessel traffic
+    onto your map as a moving layer, tracking ships in your current view or a drawn area,
+    coloured by type, from several free data sources.
+    ([QGIS plugin page](https://plugins.qgis.org/plugins/wake/))
 
-- [Outfall UK](https://github.com/PeterCotroneo/Outfall-UK): a QGIS plugin that maps
-  UK bathing-water quality and which sewage overflows are discharging now, keyless
-  from the UK regulators and water companies.
-  ([QGIS plugin page](https://plugins.qgis.org/plugins/outfall/))
-  
-- [Bolt](https://github.com/PeterCotroneo/Bolt): A personal QGIS project that
-  displays live lightning detections as they arrive and fade, using the same
-  tracking engine as Wake, Contrail and Zenith. Source-only; not distributed
-  through the QGIS plugin repository.
+  - [SeaState US](https://github.com/PeterCotroneo/SeaState-US): loads NOAA tide,
+    water-level, and buoy data as map layers and charts them over time.
+    ([QGIS plugin page](https://plugins.qgis.org/plugins/seastate/))
+
+  - [Outfall UK](https://github.com/PeterCotroneo/Outfall-UK): maps UK bathing-water
+    quality and which sewage overflows are discharging now, keyless from the UK
+    regulators and water companies.
+    ([QGIS plugin page](https://plugins.qgis.org/plugins/outfall/))
+
+  - [Bolt](https://github.com/PeterCotroneo/Bolt): displays live lightning detections as
+    they arrive and fade, using the same tracking engine as Wake, Contrail and Zenith.
+    Source-only; not distributed through the QGIS plugin repository.
 
 - [Coatue Studio](https://www.saatchiart.com/coatuestudio): My cartographic art practice, exploring the geometry of cities through maps of streets, buildings and property boundaries.
 
