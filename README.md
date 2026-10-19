@@ -11,6 +11,11 @@ This is my GitHub for personal projects.
 
 - **Geospatial plugins for QGIS:**
 
+  - [Mars Sojourn](https://github.com/PeterCotroneo/Mars-Sojourn): puts NASA's Mars rovers
+    on a Mars map, with Perseverance's and Curiosity's routes, every stop since landing and
+    Ingenuity's 72 flights, plus the rovers' raw photos linked to the spots where they were
+    taken, keyless from NASA.
+
   - [Zenith](https://github.com/PeterCotroneo/Zenith): computes live satellite positions
     from orbital data and shows them moving on your map, tracking satellites in your
     current view or a drawn area, coloured by constellation, keyless from CelesTrak.
