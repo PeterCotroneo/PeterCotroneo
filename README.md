@@ -14,7 +14,7 @@ This is my GitHub for personal projects.
   - [Mars Sojourn](https://github.com/PeterCotroneo/Mars-Sojourn): puts NASA's Mars rovers
     on a Mars map, with Perseverance's and Curiosity's routes, every stop since landing and
     Ingenuity's 72 flights, plus the rovers' raw photos linked to the spots where they were
-    taken, keyless from NASA.
+    taken. ([QGIS plugin page](https://plugins.qgis.org/plugins/sojourn/))
 
   - [Zenith](https://github.com/PeterCotroneo/Zenith): computes live satellite positions
     from orbital data and shows them moving on your map, tracking satellites in your
